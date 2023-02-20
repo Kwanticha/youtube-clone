@@ -20,11 +20,11 @@ export const categories = [
   { name: "New", icon: <HomeIcon /> },
   { name: "Software Engineering, NPRU", icon: <CodeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
-  { name: "ReactJS", icon: <CodeIcon /> },
-  { name: "NextJS", icon: <CodeIcon /> },
+  { name: "K-POP", icon: <CodeIcon /> },
+  { name: "BTS", icon: <CodeIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
-  { name: "Education", icon: <SchoolIcon /> },
-  { name: "Podcast", icon: <GraphicEqIcon /> },
+  { name: "Blackping", icon: <SchoolIcon /> },
+  { name: "Street Food", icon: <GraphicEqIcon /> },
   { name: "Movie", icon: <OndemandVideoIcon /> },
   { name: "Gaming", icon: <SportsEsportsIcon /> },
   { name: "Live", icon: <LiveTvIcon /> },
@@ -33,7 +33,7 @@ export const categories = [
   { name: "Beauty", icon: <FaceRetouchingNaturalIcon /> },
   { name: "Comedy", icon: <TheaterComedyIcon /> },
   { name: "Gym", icon: <FitnessCenterIcon /> },
-  { name: "Crypto", icon: <DeveloperModeIcon /> },
+  { name: "ROV", icon: <DeveloperModeIcon /> },
 ];
 
 
