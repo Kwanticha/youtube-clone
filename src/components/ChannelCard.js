@@ -28,6 +28,7 @@ const ChannelCard = ({channelDetail,marginTop}) => {
              justifyContent :"center",
              textAlign: "center",
              color:"#fff",
+             alignItems:"center",
 
       }}
       >
